@@ -79,7 +79,7 @@
 									id="emailErr">Email is mandatory</div>
 							</div>
 							<div class="contactForm_tr">
-								<div class="contactForm_td1">Phone</div>
+								<div class="contactForm_td1">Phone Number</div>
 								<div class="contactForm_tdMiddle">:</div>
 								<div class="contactForm_td2">
 									<input name="phone" type="text" id="phone"
