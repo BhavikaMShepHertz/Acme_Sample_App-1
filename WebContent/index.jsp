@@ -91,7 +91,7 @@
 								</div>
 							</div>	
 								<div class="contactForm_tr">
-								<div class="contactForm_td1">Address</div>
+								<div class="contactForm_td1">Adress</div>
 								<div class="contactForm_tdMiddle">:</div>
 								<div class="contactForm_td2">
 									<input name="address" type="text" id="address"
